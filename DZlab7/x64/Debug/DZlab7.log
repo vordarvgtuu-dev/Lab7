@@ -1,0 +1,3 @@
+﻿  DZlab7.c
+C:\Users\PC-DASHA\source\repos\DZlab7\DZlab7.c(14,22): warning C4013: get_day_of_week: нет определения; предполагается "extern" с возвратом типа "int"
+  DZlab7.vcxproj -> C:\Users\PC-DASHA\source\repos\Laba7\x64\Debug\DZlab7.exe
