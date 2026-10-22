@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <windows.h> // не работает #include <locale.h>
 
+int get_day_of_week(int jan1, int k); 
+
 int main() {
     SetConsoleOutputCP(65001); 
 
